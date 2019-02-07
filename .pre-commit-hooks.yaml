@@ -2,5 +2,5 @@
   name: protolint
   description: This hook runs prototool lint.
   entry: prototool link
-  language: script
+  language: system
   files: ^.*proto$
