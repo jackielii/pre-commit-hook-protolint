@@ -1,6 +1,6 @@
 - id: protolint
   name: protolint
   description: This hook runs prototool lint.
-  entry: prototool link
+  entry: prototool lint
   language: system
   files: ^.*proto$
