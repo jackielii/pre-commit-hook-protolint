@@ -3,4 +3,4 @@
   description: This hook runs prototool lint.
   entry: prototool link
   language: script
-  types: [file, proto]
+  files: ^.*proto$
