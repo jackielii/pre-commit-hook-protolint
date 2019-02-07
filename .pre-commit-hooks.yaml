@@ -1,0 +1,6 @@
+- id: protolint
+  name: protolint
+  description: This hook runs prototool lint.
+  entry: prototool link
+  language: script
+  types: [file, proto]
